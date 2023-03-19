@@ -25,3 +25,7 @@ After doing so, once the page is open click on any of the buttons to see a speci
 
 ## License
 [Siddarth_Salins_Mudaliar]
+
+## Live Project Link
+
+[Magic 8 Ball](https://drsalins.github.io/Magic8BallProject/)
